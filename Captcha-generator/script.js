@@ -27,7 +27,7 @@ submit.onclick = function checkInput(){
         display.innerText = "Matched😎";
     }
     else{
-        display.innerText = "Not-Matched😖;"
+        display.innerText = "Not-Matched😖";
     }
 }
 refresh.onclick = function refreshCaptcha(){
